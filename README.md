@@ -19,17 +19,16 @@
 
 Principais:
   
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6)&nbsp;
+![JavaScript](https://shields.io/badge/JavaScript-0D1117?logo=JavaScript&logoColor=1572B6&style=flat-square)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 Ferramentas:
   
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Inteliji](https://img.shields.io/badge/-inteliji-0D1117?style=for-the-badge&logo=inteliji&labelColor=0D1117)&nbsp;
+![Inteliji](https://img.shields.io/badge/Intellij%20Idea-0D1117?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 Outros conhecimentos:
   
@@ -37,6 +36,12 @@ Outros conhecimentos:
   
 Estudando no momento:
   
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://shields.io/badge/JavaScript-0D1117?logo=JavaScript&logoColor=1572B6&style=flat-square)&nbsp;
+<div align="center">
+  <br>
+  <p align="center"><b>Contador de Visitas</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FelipeSilvaNavarro}/count.svg" /></p>
+  <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e2162&height=170&section=footer"/>
