@@ -19,7 +19,8 @@
 
 Principais:
   
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 Ferramentas:
